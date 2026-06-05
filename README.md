@@ -18,13 +18,11 @@
 
 🎓 Third Year B.Tech CSE Student at SRM Institute of Science & Technology
 
-🧠 Passionate about Artificial Intelligence, Full Stack Development and Product Engineering
+🧠 AI Engineer & Full Stack Developer
 
 🏆 Hackathon Winner
 
-💻 Strong interest in DSA, System Design and AI Applications
-
-🚀 Building products that combine AI, software engineering and great user experiences
+💻 Passionate about DSA, System Design, AI and Product Development
 
 ---
 
@@ -36,18 +34,7 @@
 
 ## KALYX — AI Curriculum Intelligence Platform
 
-An enterprise-grade AI platform that transforms university syllabi into teaching-ready content through a multi-agent architecture.
-
-### Features
-
-* Multi-Agent Workflow using LangGraph
-* RAG-Powered Syllabus Understanding
-* AI Generated Lecture Slides
-* Instructor Notes Generation
-* Assessment Bank Creation
-* Bloom's Taxonomy Audit
-* Industry Gap Analysis
-* PPTX & PDF Export
+An AI-powered platform that transforms university syllabi into teaching-ready content using multi-agent workflows and RAG-based intelligence.
 
 ### Tech Stack
 
@@ -69,15 +56,7 @@ Next.js • FastAPI • SQLite • LangGraph • Gemini AI • JWT Authenticatio
 
 🏆 Hackathon Winning Project
 
-Interactive 3D Space Exploration Platform featuring immersive visualizations of planets, stars and galaxies.
-
-### Highlights
-
-* Realistic Space Environment
-* Interactive 3D Models
-* Smooth Animations
-* Responsive Design
-* Educational Exploration Experience
+An interactive 3D space exploration experience featuring immersive visualizations of planets, stars, and galaxies.
 
 ### Live Demo
 
@@ -97,15 +76,7 @@ https://nd8288.github.io/stellarspherefinal/
 
 ## Cervical Cancer Detection using Cytology Images
 
-Research-focused AI project aimed at assisting early cervical cancer detection using computer vision and deep learning techniques.
-
-### Areas of Interest
-
-* Artificial Intelligence
-* Computer Vision
-* Deep Learning
-* Medical Imaging
-* Healthcare AI
+A research-focused AI project leveraging computer vision and deep learning techniques for early cervical cancer detection from cytology images.
 
 ---
 
