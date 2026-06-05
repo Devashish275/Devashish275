@@ -1,109 +1,214 @@
-# Hi 👋 I'm Devashish Pandey
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Devashish%20Pandey&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-### 🚀 Full Stack Developer | AI Engineer | B.Tech CSE @ SRM Institute of Science & Technology
+<h1 align="center">Hi 👋, I'm Devashish Pandey</h1>
 
-Passionate about building impactful software that combines **AI, Full-Stack Development, and Product Engineering**. I enjoy turning complex ideas into intuitive user experiences and scalable applications.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Competitive+Programmer;Hackathon+Winner;Building+Impactful+Products" />
+</p>
 
----
-
-## 🌟 Featured Projects
-
-### 🧠 KALYX — AI Curriculum Intelligence Platform
-
-An enterprise-grade platform that transforms university syllabi into teaching-ready content using a multi-agent AI architecture.
-
-**Key Features**
-
-* Multi-agent workflow using LangGraph
-* RAG-powered syllabus understanding
-* AI-generated lecture slides & instructor notes
-* Bloom's Taxonomy Audit
-* Assessment Generation
-* Industry Gap Analysis
-* PPTX & PDF Export
-
-**Tech Stack:** Next.js, FastAPI, SQLite, LangGraph, Gemini AI, JWT Authentication
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=devashish275&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-### 🌌 Stellar Sphere — Hackathon Winning Project
+## 🚀 About Me
 
-Interactive 3D space exploration platform featuring immersive visualizations of planets, stars, and galaxies.
+🎓 Third Year B.Tech CSE Student at SRM Institute of Science & Technology
+
+🧠 Passionate about Artificial Intelligence, Full Stack Development and Product Engineering
 
 🏆 Hackathon Winner
 
-🔗 Live Demo: https://nd8288.github.io/stellarspherefinal/
+💻 Strong interest in DSA, System Design and AI Applications
 
-**Tech Stack:** HTML, CSS, JavaScript, Three.js
+🚀 Building products that combine AI, software engineering and great user experiences
 
 ---
 
-### 🔬 Cervical Cancer Detection using Cytology Images
+<p align="center">
+<img width="450" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+</p>
 
-AI-assisted research project focused on early cervical cancer detection through cytology image analysis.
+# 🧠 Currently Building
 
-**Focus Areas**
+## KALYX — AI Curriculum Intelligence Platform
 
-* Medical Image Processing
-* Deep Learning
+An enterprise-grade AI platform that transforms university syllabi into teaching-ready content through a multi-agent architecture.
+
+### Features
+
+* Multi-Agent Workflow using LangGraph
+* RAG-Powered Syllabus Understanding
+* AI Generated Lecture Slides
+* Instructor Notes Generation
+* Assessment Bank Creation
+* Bloom's Taxonomy Audit
+* Industry Gap Analysis
+* PPTX & PDF Export
+
+### Tech Stack
+
+Next.js • FastAPI • SQLite • LangGraph • Gemini AI • JWT Authentication
+
+---
+
+### 📸 KALYX Dashboard
+
+<p align="center">
+<img width="100%" src="PASTE_YOUR_KALYX_SCREENSHOT_HERE">
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/216655846-d4f0d6c8-fa9d-4e6e-a0a5-8f0d2fddfc68.gif" width="100%">
+
+# 🌌 Stellar Sphere
+
+🏆 Hackathon Winning Project
+
+Interactive 3D Space Exploration Platform featuring immersive visualizations of planets, stars and galaxies.
+
+### Highlights
+
+* Realistic Space Environment
+* Interactive 3D Models
+* Smooth Animations
+* Responsive Design
+* Educational Exploration Experience
+
+### Live Demo
+
+https://nd8288.github.io/stellarspherefinal/
+
+---
+
+### 📸 Stellar Sphere Showcase
+
+<p align="center">
+<img width="100%" src="PASTE_YOUR_STELLAR_SPHERE_SCREENSHOT_HERE">
+</p>
+
+---
+
+# 🔬 Research
+
+## Cervical Cancer Detection using Cytology Images
+
+Research-focused AI project aimed at assisting early cervical cancer detection using computer vision and deep learning techniques.
+
+### Areas of Interest
+
+* Artificial Intelligence
 * Computer Vision
+* Deep Learning
+* Medical Imaging
 * Healthcare AI
 
 ---
 
-## 💻 Technical Skills
+<img src="https://user-images.githubusercontent.com/74038190/216655846-d4f0d6c8-fa9d-4e6e-a0a5-8f0d2fddfc68.gif" width="100%">
 
-### Languages
+# ⚙️ Tech Stack
 
-C++, Java, Python, JavaScript, SQL
-
-### Frontend
-
-React, Next.js, HTML5, CSS3, Tailwind CSS
-
-### Backend
-
-Node.js, Express.js, FastAPI
-
-### Databases
-
-MySQL, SQLite, MongoDB
-
-### AI & ML
-
-LangGraph, RAG, Gemini AI, Machine Learning, Deep Learning
-
-### Tools
-
-Git, GitHub, Linux, Firebase
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nextjs,nodejs,express,fastapi,mongodb,mysql,sqlite,firebase,git,github,linux,vscode&perline=6"/>
+</p>
 
 ---
 
-## 📈 Competitive Programming
+# 📈 Competitive Programming
 
-* Solving Data Structures & Algorithms problems regularly
-* Strong focus on Problem Solving and Interview Preparation
+### Platforms
 
-### Profiles
+🔹 LeetCode
+https://leetcode.com/u/deevvcoder/
 
-* LeetCode: https://leetcode.com/u/deevvcoder/
-* Codeforces: https://codeforces.com/profile/devthecoder
-
----
-
-## 🌐 Portfolio
-
-Portfolio: https://devashish275.github.io/My-Portfolio/
+🔹 Codeforces
+https://codeforces.com/profile/devthecoder
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Analytics
 
-* Email: [devashish0207@gmail.com](mailto:devashish0207@gmail.com)
-* LinkedIn: https://linkedin.com/in/devashish-pandey
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devashish275&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashish275&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devashish275&theme=tokyonight"/>
+</p>
 
 ---
 
-### ⚡ Fun Fact
+# 📈 Contribution Graph
 
-I love building products that sit at the intersection of **AI, engineering, and great user experiences.**
+[![Devashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devashish275\&theme=tokyo-night)](https://github.com/devashish275)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=devashish275&theme=algolia&row=1&column=6"/>
+</p>
+
+---
+
+# 🔬 Research Interests
+
+* Artificial Intelligence
+* Agentic AI Systems
+* Retrieval Augmented Generation (RAG)
+* Computer Vision
+* Deep Learning
+* Healthcare AI
+* EdTech AI
+
+---
+
+# 🌐 Portfolio
+
+https://devashish275.github.io/My-Portfolio/
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/devashish-pandey">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:devashish0207@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/deevvcoder/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/devthecoder">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I love building products at the intersection of AI, software engineering and user experience.
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
